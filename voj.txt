@@ -2,3 +2,5 @@ test
 ahoj
 Barbora je best
 hrib
+
+uprava po naklonování pomocí ssh
