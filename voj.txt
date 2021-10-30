@@ -2,3 +2,4 @@ test
 ahoj
 barbara
 na vylete
+pokračovala ve výletě
