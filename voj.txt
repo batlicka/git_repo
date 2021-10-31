@@ -1,5 +1,12 @@
 test
 ahoj
+<<<<<<< HEAD
 barbara
 na vylete
 pokračovala ve výletě
+=======
+Barbora je best
+hrib
+
+uprava po naklonování pomocí ssh
+>>>>>>> b87fef835c32f55b146e7ef63eadd71c6b4daf2e
