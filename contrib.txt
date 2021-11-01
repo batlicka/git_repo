@@ -1,2 +1,3 @@
 some text
 vojta added in contrib branch
+added text to contrib.txt
