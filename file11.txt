@@ -8,3 +8,5 @@ dalsi vec jsem dopsal
 posledni řadek
 
 hurvinek
+
+added text under master branch
